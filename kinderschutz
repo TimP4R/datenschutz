@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Sicherheitsstandards zum Schutz von Kindern</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; max-width: 700px; margin: auto; }
+    h1 { font-size: 2em; }
+  </style>
+</head>
+<body>
+  <h1>Sicherheitsstandards zum Schutz von Kindern</h1>
+  <p>Die App „SpotiCar“ verpflichtet sich dem Schutz von Kindern und Jugendlichen. Dazu gelten folgende Standards:</p>
+  <ul>
+    <li>Darstellungen sexuellen Missbrauchs oder ausbeuterischer Inhalte sind strengstens verboten.</li>
+    <li>Ein Meldesystem ermöglicht es Nutzern, verdächtige oder unangemessene Inhalte sofort zu melden.</li>
+    <li>Meldungen werden geprüft, Inhalte bei Verstößen umgehend entfernt.</li>
+    <li>Wiederholte Verstöße führen zur dauerhaften Sperrung betroffener Nutzerkonten.</li>
+    <li>Alle Inhalte werden regelmäßig moderiert, um Verstöße frühzeitig zu erkennen.</li>
+  </ul>
+  <p>Bei Hinweisen oder Verdacht auf rechtswidrige Inhalte wende dich bitte an:<br>
+  <strong>SpotiCar@gmx.de</strong></p>
+</body>
+</html>
